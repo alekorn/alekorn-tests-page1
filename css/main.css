@@ -1,1 +1,14 @@
-
+.box2 {
+  display: block;
+  background-color: #39CCCC;
+  width: 490px;
+  height: 70px;
+  padding-left: 10px;
+  padding-top: 10px;
+  border-top: 8px solid #001f3f;
+  margin-left: 0px;
+  margin-top: 15px;
+}
+.img {
+  margin-top: 15px;
+}
